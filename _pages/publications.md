@@ -20,7 +20,7 @@ nav_order: 2
 *Abstract:* Brief description of the paper...
 
 **Ongoing Project:** The Denied Bailout: The Effect on Berlin's Fiscal Policy (with  Alfons J. Weichenrieder)
-*Collaborators:* work in progress 
+*Status:* work in progress 
 *Description:* Brief description of the ongoing work...
 
 ---
