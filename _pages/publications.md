@@ -11,16 +11,16 @@ nav_order: 2
 
 ## Work in Progress
 
-**Working Paper 1:** [Title of your working paper]  
-*Status:* [Draft/Under Review/Revise & Resubmit]  
+**Working Paper 1:** HANK with Fiscal Policy
+*Status:* Draft
+
+
+**Working Paper 2:** Fiscal Narratives and Inflation (with Sarah Arndt)
+*Status:* Draft
 *Abstract:* Brief description of the paper...
 
-**Working Paper 2:** [Title of your second working paper]  
-*Status:* [Draft/Under Review/Revise & Resubmit]  
-*Abstract:* Brief description of the paper...
-
-**Ongoing Project:** [Title of current research project]  
-*Collaborators:* [Names if applicable]  
+**Ongoing Project:** The Denied Bailout: The Effect on Berlin's Fiscal Policy (with  Alfons J. Weichenrieder)
+*Collaborators:* work in progress 
 *Description:* Brief description of the ongoing work...
 
 ---
