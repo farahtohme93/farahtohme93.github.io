@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: Research interests, publications, and ongoing work
+title: Research
 nav: true
 nav_order: 2
 ---
@@ -34,6 +33,8 @@ nav_order: 2
 **Polymarket: An Overview of Decentralized Prediction Markets (with Basil Jan)**
 
 *Status:* work in progress 
+
+
 ---
 
 
