@@ -21,7 +21,7 @@ nav_order: 2
 *Status:* Draft
 
 
-**Domestic Revenue Mobilization in Low-Income Countries (with John-Paul Fanning and Thomas Augsten)
+**Domestic Revenue Mobilization in Low-Income Countries (with John-Paul Fanning and Thomas Augsten)**
 
 *Status:* Draft
 
