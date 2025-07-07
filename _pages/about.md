@@ -25,7 +25,8 @@ My research focuses on macroeconomics, with particular expertise in heterogeneou
 I have built research experience through roles at international institutions, including a PhD internship at the International Monetary Fund in 2023 and working as a Junior Researcher at the Leibniz Institute for Financial Research SAFE from 2020 to 2023.
 
 ## Research Interests
+- Fiscal Policy
 - Macroeconomics with Heterogeneous Agents
 - Monetary Policy and Inflation Expectations
-- Fiscal Policy
+
 
