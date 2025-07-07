@@ -5,8 +5,8 @@
     "image": "",
     "email": "farahtohme16@gmail.com",
     "phone": "",
-    "url": "https://farahtohme93.github.io/",
-    "summary": "Ph.D. candidate in Economics at Goethe University Frankfurt with expertise in macroeconomics, monetary policy, and climate finance",
+    "url": "https://farahtohme.com/",
+    "summary": "Ph.D. candidate in Economics at Goethe University Frankfurt",
     "location": {
       "address": "Theodor-W.-Adorno-Platz 6",
       "postalCode": "60316",
@@ -22,72 +22,56 @@
       "position": "Research Assistant",
       "url": "",
       "startDate": "2019-10-01",
-      "endDate": "Present",
-      "summary": "Conducting research in macroeconomics and monetary policy",
-      "highlights": ["Macroeconomics research", "Monetary policy analysis"]
+      "endDate": "Present"
     },
     {
       "name": "International Monetary Fund",
       "position": "PhD Intern",
       "url": "https://www.imf.org",
       "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
-      "summary": "Research internship focusing on macroeconomic policy analysis",
-      "highlights": ["Policy analysis", "Economic research"]
+      "endDate": "2023-12-31"
     },
     {
       "name": "Leibniz Institute for Financial Research SAFE",
       "position": "Junior Researcher",
       "url": "https://safe-frankfurt.de",
       "startDate": "2020-01-01",
-      "endDate": "2023-12-31",
-      "summary": "Research on financial stability and macroeconomic policy",
-      "highlights": ["Financial research", "Academic publications"]
+      "endDate": "2023-12-31"
     },
     {
       "name": "Frankfurt School of Economics and Finance",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2020-01-01",
-      "endDate": "2021-12-31",
-      "summary": "Supporting faculty research in economics and finance",
-      "highlights": ["Economic research", "Data analysis"]
+      "endDate": "2021-12-31"
     },
     {
       "name": "University of Bologna",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2018-01-01",
-      "endDate": "2019-12-31",
-      "summary": "Econometric analysis and data processing for academic research",
-      "highlights": ["Econometric analysis", "Data processing"]
+      "endDate": "2019-12-31"
     },
     {
       "name": "American University of Beirut",
       "position": "Graduate Research Assistant",
       "url": "",
       "startDate": "2016-01-01",
-      "endDate": "2017-12-31",
-      "summary": "Research assistance for faculty economics projects",
-      "highlights": ["Academic research", "Economic analysis"]
+      "endDate": "2017-12-31"
     },
     {
       "name": "United Nations Development Program",
       "position": "Research Intern",
       "url": "https://www.undp.org",
       "startDate": "2016-01-01",
-      "endDate": "2016-12-31",
-      "summary": "Development economics research and policy analysis",
-      "highlights": ["Policy research", "Development economics"]
+      "endDate": "2016-12-31"
     },
     {
       "name": "Sheikh Saud Bin Saqr Al Qasimi Foundation for Policy Research",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2015-01-01",
-      "endDate": "2016-12-31",
-      "summary": "Policy research and analysis in the Middle East region",
-      "highlights": ["Policy analysis", "Regional research"]
+      "endDate": "2016-12-31"
     }
   ],
   "education": [
