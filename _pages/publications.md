@@ -11,21 +11,29 @@ nav_order: 2
 
 ## Work in Progress
 
-**Working Paper 1:** HANK with Fiscal Policy
+**Fiscal Narratives and Inflation (with Sarah Arndt)**
 
 *Status:* Draft
 
 
-**Working Paper 2:** Fiscal Narratives and Inflation (with Sarah Arndt)
+**HANK with Fiscal Policy**
 
 *Status:* Draft
-*Abstract:* Brief description of the paper...
 
-**Ongoing Project:** The Denied Bailout: The Effect on Berlin's Fiscal Policy (with  Alfons J. Weichenrieder)
+
+**Domestic Revenue Mobilization in Low-Income Countries (with John-Paul Fanning and Thomas Augsten)
+
+*Status:* Draft
+
+
+**The Denied Bailout: The Effect on Berlin's Fiscal Policy (with  Alfons J. Weichenrieder)**
 
 *Status:* work in progress 
-*Description:* Brief description of the ongoing work...
 
+
+**Polymarket: An Overview of Decentralized Prediction Markets (with Basil Jan)**
+
+*Status:* work in progress 
 ---
 
 
