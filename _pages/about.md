@@ -11,7 +11,8 @@ profile:
     <p>Goethe University Frankfurt</p>
     <p>Theodor-W.-Adorno-Platz 6</p>
     <p>Frankfurt am Main 60316, Germany</p>
-
+    <p><a href="assets/pdf/cv.pdf">Download CV</a></p>
+    
 news: true
 latest_posts: false
 selected_papers: false
