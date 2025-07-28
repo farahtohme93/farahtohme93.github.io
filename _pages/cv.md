@@ -9,6 +9,10 @@ description: Curriculum Vitae - Farah Tohme, Ph.D. candidate in Economics at Goe
 toc:
   sidebar: left
 ---
+## Download CV
+<a href="../assets/pdf/cv.pdf" class="btn btn-primary" download>Download PDF Version</a>
+
+---
 
 ## Education
 
