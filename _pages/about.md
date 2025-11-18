@@ -28,3 +28,5 @@ I have built research experience through roles at international institutions, in
 - Monetary Policy and Inflation Expectations
 
 
+
+## I will be in the 2025-26 Econ Job Market##
