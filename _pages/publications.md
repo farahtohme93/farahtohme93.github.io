@@ -55,6 +55,8 @@ This paper investigates the effect of domestic revenue mobilization on economic 
 *Status:* Draft
 
 
+
+
 ---
 ## Work in Progress
 
@@ -66,6 +68,11 @@ This paper investigates the effect of domestic revenue mobilization on economic 
 
 *Status:* work in progress 
 
+
+**From Bundestag to Economic Expectations: When Politicians Talk, Markets Listen
+Evidence from German Parliamentary Discourse (with Basil Jan)**
+
+*Status:* work in progress 
 
 
 ## Publications
