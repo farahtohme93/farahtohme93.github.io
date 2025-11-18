@@ -9,7 +9,7 @@ nav_order: 6
 
 **Fundamentals of Public Policy**
 
-*Masters Level*
+*Master Level*
 
 *Winter 2024/2025*
 
@@ -21,7 +21,7 @@ nav_order: 6
 
 **Elements of European Integration**
 
-*Masters Level*
+*Master Level*
 
 *Summer 2025*
 
