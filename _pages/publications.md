@@ -8,7 +8,7 @@ nav_order: 2
 <!-- _pages/research.md -->
 
 
-## Work in Progress
+## Research
 
 **Fiscal Narratives and Inflation (with Sarah Arndt)**
 
