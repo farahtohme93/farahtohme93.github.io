@@ -9,7 +9,7 @@ nav_order: 2
 
 
 
-**Fiscal Narratives and Inflation (with Sarah Arndt)** 
+**Fiscal Narratives and Inflation (with Sarah Arndt)** Job Market Paper
 
 
 *Abstract:* 
