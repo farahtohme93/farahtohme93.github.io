@@ -9,7 +9,6 @@ nav_order: 2
 
 
 
-Hello
 **Fiscal Narratives and Inflation (with Sarah Arndt)** 
 
 
