@@ -10,8 +10,9 @@ nav_order: 2
 
 
 
-**Fiscal Narratives and Inflation (with Sarah Arndt)**  *Job Market Paper*
+**Fiscal Narratives and Inflation (with Sarah Arndt)** 
 
+*Status:* <a href="/assets/pdf/Fiscal_Narratives_and_Inflation_november2025.pdf" class="btn btn-primary" download>Draft</a>
 
 *Abstract:* 
 This paper investigates how media narratives on fiscal policy shape household’s
