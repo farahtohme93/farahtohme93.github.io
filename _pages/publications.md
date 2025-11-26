@@ -12,7 +12,6 @@ nav_order: 2
 
 **Fiscal Narratives and Inflation (with Sarah Arndt)**  *Job Market Paper*
 
-*Status:* [Draft](/assets/pdf/Fiscal_Narratives_and_Inflation_november2025.pdf)
 *Status:*<a href="../assets/pdf/Fiscal_Narratives_and_Inflation_november2025.pdf" class="btn btn-primary">Draft</a>
 
 *Abstract:* 
