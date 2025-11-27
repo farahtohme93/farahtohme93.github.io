@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/research/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Curriculum Vitae - Farah Tohme, Ph.D. candidate in Economics at Goethe University Frankfurt",
           section: "Navigation",
           handler: () => {
