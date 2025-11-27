@@ -73,11 +73,10 @@ Evidence from German Parliamentary Discourse (with Basil Jan)**
 
 ## Publications
 
-<!-- Bibsearch Feature -->
-{% include bib_search.liquid %}
+## Publications
+
 <div class="publications">
 {% bibliography %}
 </div>
-
 ---
 
