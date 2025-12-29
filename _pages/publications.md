@@ -22,6 +22,7 @@ effect varying in size. Lastly, we measure how fiscal narratives affect the tran
 mission of a government spending shock to the economy and find that some of
 the narratives have an amplifying effect while others dampen the impact.
 
+**Presentations:** 33rd Symposium of the Society for Nonlinear Dynamics & Econometrics 2026 (*incoming*) •  Women in Central Banking 2025 •  15th ifo Conference on Macroeconomics and Survey Data 2025 (Poster) •  7th Behavioral Macroeconomics Workshop 2025 (Poster)
 
 
 
