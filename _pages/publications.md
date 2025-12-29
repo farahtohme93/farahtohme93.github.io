@@ -8,7 +8,7 @@ nav_order: 2
 <!-- _pages/research.md -->
 
 
-**[Fiscal Narratives and Inflation](../assets/pdf/jmp_TOHME.pdf)** (with Sarah Arndt) - Job Market Paper
+<u>**[Fiscal Narratives and Inflation](../assets/pdf/jmp_TOHME.pdf)**</u> (with Sarah Arndt) - Job Market Paper
 
 *Abstract:* 
 This paper investigates how media narratives on fiscal policy shape household’s
@@ -27,7 +27,7 @@ the narratives have an amplifying effect while others dampen the impact.
 
 
 
-**Domestic Revenue Mobilization in Low-Income Countries (with John-Paul Fanning and Thomas Augsten)**
+<u>**Domestic Revenue Mobilization in Low-Income Countries</u> (with John-Paul Fanning and Thomas Augsten)**
 
 *Status:* Draft
 
@@ -37,17 +37,17 @@ This paper investigates the effect of domestic revenue mobilization on economic 
 
 
 
-**HANK with Fiscal Policy**
+<u>**HANK with Fiscal Policy**</u>
 
 *Status:* Draft
 
 
-**The Denied Bailout: The Effect on Berlin's Fiscal Policy (with  Alfons J. Weichenrieder)**
+<u>**The Denied Bailout: The Effect on Berlin's Fiscal Policy</u> (with  Alfons J. Weichenrieder)**
 
 *Status:* Draft
 
 
-**Polymarket: An Overview of Decentralized Prediction Markets (with Basil Jan)**
+<u>**Polymarket: An Overview of Decentralized Prediction Markets</u> (with Basil Jan)**
 
 *Status:* Draft
 
