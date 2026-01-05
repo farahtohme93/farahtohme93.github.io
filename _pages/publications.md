@@ -8,7 +8,7 @@ nav_order: 2
 <!-- _pages/research.md -->
 
 
-<u>**[Fiscal Narratives and Inflation](../assets/pdf/jmp_TOHME.pdf)**</u> (with Sarah Arndt) - Job Market Paper
+**[Fiscal Narratives and Inflation](../assets/pdf/jmp_TOHME.pdf)** (with Sarah Arndt) - Job Market Paper
 
 *Abstract:* 
 This paper investigates how media narratives on fiscal policy shape household’s
