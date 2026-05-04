@@ -36,12 +36,6 @@ This paper investigates the effect of domestic revenue mobilization on economic 
 
 
 
-
-<u>**HANK with Fiscal Policy**</u>
-
-*Status:* Draft
-
-
 <u>**The Denied Bailout: The Effect on Berlin's Fiscal Policy</u> (with  Alfons J. Weichenrieder)**
 
 *Status:* Draft
