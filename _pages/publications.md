@@ -27,7 +27,7 @@ the narratives have an amplifying effect while others dampen the impact.
 
 
 
-<u>**Domestic Revenue Mobilization in Low-Income Countries</u> (with John-Paul Fanning and Thomas Augsten)**
+**Domestic Revenue Mobilization in Low-Income Countries</u> (with John-Paul Fanning and Thomas Augsten)**
 
 *Status:* Draft
 
@@ -54,12 +54,12 @@ rise across most maturities and medium- to long-maturity breakevens also turn po
 results suggest that markets may have assigned greater weight to persistent tariff-driven price
 pressures during the second episode.
 
-<u>**The Denied Bailout: The Effect on Berlin's Fiscal Policy</u> (with  Alfons J. Weichenrieder)**
+**The Denied Bailout: The Effect on Berlin's Fiscal Policy (with  Alfons J. Weichenrieder)**
 
 *Status:* Draft
 
 
-<u>**Polymarket: An Overview of Decentralized Prediction Markets</u> (with Basil Jan)**
+**Polymarket: An Overview of Decentralized Prediction Markets (with Basil Jan)**
 
 *Status:* Draft
 
