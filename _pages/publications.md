@@ -38,6 +38,7 @@ This paper investigates the effect of domestic revenue mobilization on economic 
 **Tariff Attention and Expectations (with Vandana Ramakrishnan)**
 
 *Status:* Draft
+
 *Abstract:* 
 We study how tariff-attention shocks affect market-based inflation compensation in the United
 States. Using a Bloomberg-based tariff news index as a measure of attention to trade policy, we
