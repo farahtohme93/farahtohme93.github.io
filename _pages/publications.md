@@ -54,17 +54,21 @@ rise across most maturities and medium- to long-maturity breakevens also turn po
 results suggest that markets may have assigned greater weight to persistent tariff-driven price
 pressures during the second episode.
 
+
+
+
+**Traders and the Fed: The case of Polymarket (with Basil Jan)**
+
+*Status:* Draft
+
+*Abstract:*
+We exploit transaction-level data from Polymarket --- the world's largest decentralized prediction market --- to construct real-time, individual-level distributions of monetary policy expectations and to study how trader heterogeneity shapes both price formation and the transmission of policy information. Our sample comprises 307,080 unique wallets active in Federal Reserve policy markets over the period May 2024 to December 2025.
+The paper pursues two objectives. First, we characterize heterogeneity in market participation. We document systematic differences in the behavior of whale, large, and small traders around policy announcements, and identify which trader types exert the greatest price impact. High-volume traders predominantly supply liquidity, while smaller traders exhibit faster and more directional responses to new information. Second, we examine how pre-announcement expectation structure mediates the transmission of monetary policy surprises to financial markets. When non-mechanical traders enter the announcement window with more divergent positions, yield responses to a given FOMC surprise are substantially larger. Moving from low to high pre-announcement disagreement roughly doubles yield sensitivity, an effect that stems from differences between trader groups rather than from within-group dispersion.
+
+
 **The Denied Bailout: The Effect on Berlin's Fiscal Policy (with  Alfons J. Weichenrieder)**
 
 *Status:* Draft
-
-
-**Polymarket: An Overview of Decentralized Prediction Markets (with Basil Jan)**
-
-*Status:* Draft
-
-
-
 
 ---
 ## Work in Progress
