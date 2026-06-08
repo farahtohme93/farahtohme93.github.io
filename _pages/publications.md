@@ -65,10 +65,33 @@ pressures during the second episode.
 We exploit transaction-level data from Polymarket --- the world's largest decentralized prediction market --- to construct real-time, individual-level distributions of monetary policy expectations and to study how trader heterogeneity shapes both price formation and the transmission of policy information. Our sample comprises 307,080 unique wallets active in Federal Reserve policy markets over the period May 2024 to December 2025.
 The paper pursues two objectives. First, we characterize heterogeneity in market participation. We document systematic differences in the behavior of whale, large, and small traders around policy announcements, and identify which trader types exert the greatest price impact. High-volume traders predominantly supply liquidity, while smaller traders exhibit faster and more directional responses to new information. Second, we examine how pre-announcement expectation structure mediates the transmission of monetary policy surprises to financial markets. When non-mechanical traders enter the announcement window with more divergent positions, yield responses to a given FOMC surprise are substantially larger. Moving from low to high pre-announcement disagreement roughly doubles yield sensitivity, an effect that stems from differences between trader groups rather than from within-group dispersion.
 
+**Which Macroeconomic Releases Move FOMC Prediction Markets?\\
+       Evidence from Polymarket (with Basil Jan)**
+
+
+*Status:* Draft
+
+
+*Abstract:*
+We use 3.5 million trades on 69 Polymarket contracts for Federal Reserve rate
+decisions covering 16 FOMC meeting cycles (May 2024--December 2025) to measure
+how macroeconomic announcements shift market-implied probabilities of specific
+rate outcomes. Linking trade-level data to 15 macro series, CPI, PCE, and NFP
+releases each move contract prices by approximately one percentage point within
+60 minutes---roughly twice the response to FOMC rate decisions, which are
+partially pre-priced. About 60 percent of the 24-hour price adjustment
+completes within one hour. Price impacts are amplified when pre-release
+market uncertainty is high, consistent with Bayesian updating.
+
+
+
 
 **The Denied Bailout: The Effect on Berlin's Fiscal Policy (with  Alfons J. Weichenrieder)**
 
 *Status:* Draft
+
+
+
 
 ---
 ## Work in Progress
@@ -83,6 +106,7 @@ The paper pursues two objectives. First, we characterize heterogeneity in market
 Evidence from German Parliamentary Discourse (with Basil Jan)**
 
 *Status:* work in progress 
+
 
 
 ## Publications
