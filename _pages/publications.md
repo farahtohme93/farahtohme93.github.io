@@ -35,23 +35,27 @@ the narratives have an amplifying effect while others dampen the impact.
 This paper investigates the effect of domestic revenue mobilization on economic growth, for a sample of 65 low income countries (LIC) over the period 1990-2019. Using local projection methods with the Arellano-Bond estimator, we analyze the impact of tax revenue increases on real GDP per capita growth and examine the transmission channels through consumption and investment. Our results suggest that a one percentage point increase in the tax-to-GDP ratio positively affects real GDP per capita growth on impact, with effects remaining statistically significant through the second year. The growth effects operate primarily through increased private consumption, while public and private investment show no significant response. These findings indicate that revenue mobilization in LICs works through consumption and confidence channels rather than investment channels, suggesting a missed opportunity to use additional fiscal resources for productivity-enhancing public investment that could support sustainable long-term growth.
 
 
-**Tariff Attention and Expectations (with Vandana Ramakrishnan)**
 
-*Status:* Draft
+
+
+**[Tariff Attention and Inflation Expectations: Evidence from Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6848605)** (with Vandana Ramakrishnan)
 
 *Abstract:* 
 We study how tariff-attention shocks affect market-based inflation compensation in the United
-States. Using a Bloomberg-based tariff news index as a measure of attention to trade policy, we
-estimate local projections of Treasury TIPS breakeven inflation rates and inflation swaps across
-maturities ranging from one to thirty years over the sample period July 2018 to January 2026.
-In the full sample, a one-standard-deviation tariff news shock is followed by declines in
-both breakevens and inflation swaps, especially at short maturities. This pattern suggests that
-tariff news is not interpreted by markets as a pure cost-push inflation shock, but also operates
-through a risk-off or growth-negative channel. Subsample analysis reveals an important contrast
-between the two Trump administrations. During Trump~1, both breakevens and swaps decline broadly
-across maturities. During Trump~2, short-end breakevens continue to fall, while inflation swaps
-rise across most maturities and medium- to long-maturity breakevens also turn positive. These
-results suggest that markets may have assigned greater weight to persistent tariff-driven price
+States. Using a Bloomberg tariff-news index to measure attention to trade policy, we estimate
+daily local projections of TIPS breakeven inflation rates and inflation swaps at maturities from
+one to thirty years over July 2018 to January 2026. The market response to tariff news reverses
+sign between the two Trump trade wars. In the full sample, a one-standard-deviation shock is
+followed by modest declines in both measures, concentrated at short maturities and consistent
+with a risk-off, growth-negative channel rather than pure cost-push inflation. This average masks
+sharp heterogeneity, however. In the first trade war (2018–2019), breakevens and swaps fall
+broadly across maturities. In the second (2025), inflation swaps rise across the curve
+significantly from the two- to the twenty-year maturity while breakevens decouple, falling at
+the short end but turning positive at longer horizons. Because swaps are not exposed to the TIPS
+liquidity premium, this short-end divergence between the two instruments isolates a
+flight-to-liquidity effect and identifies swaps as the cleaner gauge. These results suggest that
+markets may have assigned greater weight to persistent tariff-driven pressures during the second
+episode.assigned greater weight to persistent tariff-driven price
 pressures during the second episode.
 
 
