@@ -73,7 +73,6 @@ summary {
 }
 </style>
 
-
 ## Working Papers
 
 <div class="research-card">
@@ -93,7 +92,7 @@ summary {
 <details>
 <summary>Abstract</summary>
 
-This paper investigates how media narratives on fiscal policy shape households’ inflation expectations. We collect a large corpus of newspaper articles reporting on fiscal policy from four major German newspapers spanning from 2006 to March 2025. Using a large language model, we introduce a strategy to automatically identify different fiscal narratives in text and construct narrative indices from this data. We then estimate the effect of these narrative indices on household inflation expectations and find positive and significant effects that vary in size. Finally, we examine how fiscal narratives affect the transmission of a government spending shock to the economy and find that some narratives amplify the shock while others dampen its impact.
+This paper investigates how media narratives on fiscal policy shape households’ inflation expectations. We collect a large corpus of newspaper articles reporting on fiscal policy from four major German newspapers spanning from 2006 to March 2025. Using a large language model, we introduce a strategy to automatically identify different fiscal narratives in text and construct narrative indices from this data. We then estimate the effect of these narrative indices on household inflation expectations and find that they all have a positive and significant effect, varying in size. Lastly, we measure how fiscal narratives affect the transmission of a government spending shock to the economy and find that some narratives amplify the impact while others dampen it.
 
 </details>
 
@@ -117,7 +116,7 @@ Domestic Revenue Mobilization in Low-Income Countries
 <details>
 <summary>Abstract</summary>
 
-This paper investigates the effect of domestic revenue mobilization on economic growth for a sample of 65 low-income countries over the period 1990–2019. Using local projection methods with the Arellano-Bond estimator, we analyze the impact of tax revenue increases on real GDP per capita growth and examine transmission channels through consumption and investment. Our results suggest that a one percentage point increase in the tax-to-GDP ratio positively affects real GDP per capita growth on impact, with effects remaining statistically significant through the second year. The growth effects operate primarily through increased private consumption, while public and private investment show no significant response.
+This paper investigates the effect of domestic revenue mobilization on economic growth for a sample of 65 low-income countries over the period 1990–2019. Using local projection methods with the Arellano-Bond estimator, we analyze the impact of tax revenue increases on real GDP per capita growth and examine the transmission channels through consumption and investment. Our results suggest that a one percentage point increase in the tax-to-GDP ratio positively affects real GDP per capita growth on impact, with effects remaining statistically significant through the second year. The growth effects operate primarily through increased private consumption, while public and private investment show no significant response. These findings indicate that revenue mobilization in low-income countries works through consumption and confidence channels rather than investment channels.
 
 </details>
 
@@ -141,7 +140,7 @@ This paper investigates the effect of domestic revenue mobilization on economic 
 <details>
 <summary>Abstract</summary>
 
-We study how tariff-attention shocks affect market-based inflation compensation in the United States. Using a Bloomberg tariff-news index to measure attention to trade policy, we estimate daily local projections of TIPS breakeven inflation rates and inflation swaps at maturities from one to thirty years over July 2018 to January 2026. The market response to tariff news reverses sign between the two Trump trade wars. In the full sample, a one-standard-deviation shock is followed by modest declines in both measures, concentrated at short maturities and consistent with a risk-off, growth-negative channel rather than pure cost-push inflation. This average masks sharp heterogeneity. In the first trade war, breakevens and swaps fall broadly across maturities. In the second, inflation swaps rise across the curve while breakevens decouple, suggesting a flight-to-liquidity effect and identifying swaps as the cleaner gauge of inflation compensation.
+We study how tariff-attention shocks affect market-based inflation compensation in the United States. Using a Bloomberg tariff-news index to measure attention to trade policy, we estimate daily local projections of TIPS breakeven inflation rates and inflation swaps at maturities from one to thirty years over July 2018 to January 2026. The market response to tariff news reverses sign between the two Trump trade wars. In the full sample, a one-standard-deviation shock is followed by modest declines in both measures, concentrated at short maturities and consistent with a risk-off, growth-negative channel rather than pure cost-push inflation. This average masks sharp heterogeneity, however. In the first trade war, breakevens and swaps fall broadly across maturities. In the second, inflation swaps rise across the curve, while breakevens decouple, suggesting a flight-to-liquidity effect and identifying swaps as the cleaner gauge of inflation compensation.
 
 </details>
 
@@ -161,7 +160,7 @@ Traders and the Fed: The Case of Polymarket
 <details>
 <summary>Abstract</summary>
 
-We exploit transaction-level data from Polymarket, the world’s largest decentralized prediction market, to construct real-time, individual-level distributions of monetary policy expectations and study how trader heterogeneity shapes price formation and the transmission of policy information. Our sample comprises 307,080 unique wallets active in Federal Reserve policy markets over the period May 2024 to December 2025. We document systematic differences between whale, large, and small traders around policy announcements and show that pre-announcement disagreement substantially amplifies yield responses to FOMC surprises.
+We exploit transaction-level data from Polymarket, the world’s largest decentralized prediction market, to construct real-time, individual-level distributions of monetary policy expectations and study how trader heterogeneity shapes price formation and the transmission of policy information. Our sample comprises 307,080 unique wallets active in Federal Reserve policy markets over the period May 2024 to December 2025. We document systematic differences in the behavior of whale, large, and small traders around policy announcements and identify which trader types exert the greatest price impact. High-volume traders predominantly supply liquidity, while smaller traders exhibit faster and more directional responses to new information. When non-mechanical traders enter the announcement window with more divergent positions, yield responses to a given FOMC surprise are substantially larger.
 
 </details>
 
@@ -185,7 +184,7 @@ Which Macroeconomic Releases Move FOMC Prediction Markets? Evidence from Polymar
 <details>
 <summary>Abstract</summary>
 
-We use 3.5 million trades on 69 Polymarket contracts for Federal Reserve rate decisions covering 16 FOMC meeting cycles from May 2024 to December 2025 to measure how macroeconomic announcements shift market-implied probabilities of specific rate outcomes. Linking trade-level data to 15 macro series, we find that CPI, PCE, and NFP releases each move contract prices by approximately one percentage point within 60 minutes, roughly twice the response to FOMC rate decisions, which are partially pre-priced. Price impacts are amplified when pre-release market uncertainty is high, consistent with Bayesian updating.
+We use 3.5 million trades on 69 Polymarket contracts for Federal Reserve rate decisions covering 16 FOMC meeting cycles from May 2024 to December 2025 to measure how macroeconomic announcements shift market-implied probabilities of specific rate outcomes. Linking trade-level data to 15 macro series, CPI, PCE, and NFP releases each move contract prices by approximately one percentage point within 60 minutes, roughly twice the response to FOMC rate decisions, which are partially pre-priced. About 60 percent of the 24-hour price adjustment completes within one hour. Price impacts are amplified when pre-release market uncertainty is high, consistent with Bayesian updating.
 
 </details>
 
