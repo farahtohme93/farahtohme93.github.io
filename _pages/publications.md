@@ -72,8 +72,7 @@ The paper pursues two objectives. First, we characterize heterogeneity in market
 **Presentations:** Augustin Cournot Doctoral Days 2026
 
 
-**Which Macroeconomic Releases Move FOMC Prediction Markets?\\
-       Evidence from Polymarket (with Basil Jan)**
+**Which Macroeconomic Releases Move FOMC Prediction Markets? Evidence from Polymarket (with Basil Jan)**
 
 
 *Status:* Draft
