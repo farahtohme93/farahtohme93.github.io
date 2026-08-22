@@ -8,21 +8,22 @@ nav_order: 2
 <!-- _pages/research.md -->
 
 
-**[Fiscal Narratives and Inflation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6924640)** (with Sarah Arndt) - Job Market Paper
+**[The Narrative Channel of Fiscal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6924640)** (with Sarah Arndt) - Job Market Paper
 
 *Abstract:* 
 This paper investigates how media narratives on fiscal policy shape household’s
-inflation expectations. We collect a large corpus of newspaper articles report-
-ing on fiscal policy from four major German newspapers spanning from 2006 to
+inflation expectations. We collect a large corpus of newspaper articles reporting
+on fiscal policy from four major German newspapers spanning from 2006 to
 March 2025. Using a large language model (ChatGPT) we introduce a strategy
 to automatically identify different fiscal narratives in text and construct narrative
 indices out of this data. We then estimate the effect of these narrative indices on
-household inflation expectations and find that they all have a positive significant
-effect varying in size. Lastly, we measure how fiscal narratives affect the trans-
-mission of a government spending shock to the economy and find that some of
-the narratives have an amplifying effect while others dampen the impact.
+household inflation expectations and find that three out of the four indices have a
+positive significant effect varying in size. Lastly, we measure how fiscal narratives
+affect the transmission of a government spending shock to the economy and find
+that some of the narratives have an amplifying effect while others dampen the
+impact.
 
-**Presentations:** ECONDAT 2026 Spring meeting • 2026 ifo Dresden Workshop on Macroeconomics and International Finance   •   33rd Symposium of the Society for Nonlinear Dynamics & Econometrics 2026  •  Women in Central Banking 2025 •  15th ifo Conference on Macroeconomics and Survey Data 2025 (Poster) •  7th Behavioral Macroeconomics Workshop 2025 (Poster)
+**Presentations:** SED Athens 2026• ECONDAT 2026 Spring meeting • 2026 ifo Dresden Workshop on Macroeconomics and International Finance   •   33rd Symposium of the Society for Nonlinear Dynamics & Econometrics 2026  •  Women in Central Banking 2025 •  15th ifo Conference on Macroeconomics and Survey Data 2025 (Poster) •  7th Behavioral Macroeconomics Workshop 2025 (Poster)
 
 
 
