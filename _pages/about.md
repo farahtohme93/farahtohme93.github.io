@@ -16,16 +16,19 @@ selected_papers: false
 social: false
 ---
 
-I am a Ph.D. candidate in Economics at Goethe University Frankfurt, Germany.
+I am a Postdoctoral Researcher in the Department of Economics at Uppsala University, Sweden.
 
-My research focuses on macroeconomics, with particular expertise in heterogeneous agent models, and fiscal policy.
-
-I have built research experience through roles at international institutions, including a PhD internship at the International Monetary Fund in 2024 and working as a Junior Researcher at the Leibniz Institute for Financial Research SAFE from 2020 to 2023.
+I received my Ph.D. in Economics from Goethe University Frankfurt (GSEFM)
+My research focuses on macroeconomics.
+Before joining Uppsala, I was a PhD intern at the International Monetary Fund in 2024 and a Junior Researcher at SAFE from 2020 to 2023.
 
 ## Research Interests
-- Fiscal Policy
-- Macroeconomics with Heterogeneous Agents
-- Monetary Policy and Inflation Expectations
+- Fiscal and Monetary Policy
+- Inflation Expectations and Expectations Formation
+- Household Heterogeneity
+- Text-as-Data, NLP and Large Language Models in Economics
+
+
 
 
 
