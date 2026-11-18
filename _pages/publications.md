@@ -61,6 +61,7 @@ This paper investigates the effect of domestic revenue mobilization on economic 
 
 </details>
 
+<div style="margin-top: 3rem;"></div>
 ## Work in Progress
 
 **Bank Responses to Windfall Taxes: A European Natural Experiment**<br>
