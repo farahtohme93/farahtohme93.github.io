@@ -27,21 +27,23 @@ toc:
 
 ## Work Experience
 
-**Research Assistant** | *Goethe University Frankfurt* | Present
+**Postdoctoral Researcher** | *Uppsala University* | 2026–present
 
-**PhD Intern** | *International Monetary Fund* | 2023
+**Research Assistant** | *Goethe University Frankfurt* | 2023–2026
 
-**Junior Researcher** | *Leibniz Institute for Financial Research SAFE* | 2020-2023
+**PhD Intern** | *International Monetary Fund* | 2024
 
-**Research Assistant** | *Frankfurt School of Economics and Finance* | 2020-2021
+**Junior Researcher** | *Leibniz Institute for Financial Research SAFE* | 2020–2023
 
-**Research Assistant** | *University of Bologna* | 2018-2019
+**Research Assistant** | *Frankfurt School of Finance & Management* | 2020–2021
 
-**Graduate Research Assistant** | *American University of Beirut* | 2016-2017
+**Research Assistant** | *University of Bologna* | 2018–2019
 
-**Research Intern** | *United Nations Development Program* | 2016
+**Graduate Research Assistant** | *American University of Beirut* | 2016–2017
 
-**Research Assistant** | *Sheikh Saud Bin Saqr Al Qasimi Foundation for Policy Research* | 2015-2016
+**Research Intern** | *United Nations Development Programme* | 2016
+
+**Research Assistant** | *Sheikh Saud Bin Saqr Al Qasimi Foundation for Policy Research* | 2015–2016
 
 ## Publications
 
