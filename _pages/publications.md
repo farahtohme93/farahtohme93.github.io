@@ -35,6 +35,44 @@ We study how tariff-attention shocks affect market-based inflation compensation 
 
 </details>
 
+
+---
+
+**Fiscal Policy in the German Press: Twenty Years of Evidence∗**<br>
+with Sarah Arndt<br>
+<small>*Draft available upon request*</small>
+
+<details markdown="1">
+<summary>Abstract</summary>
+
+This paper examines how fiscal policy narratives evolved in the German press over the
+past two decades. The analysis is based on a corpus of 514,940 newspaper articles covering
+fiscal policy from four major German newspapers between January 2006 and March 2025.
+Using a large language model, I classify the articles into four narrative categories: fiscal
+expansion, public debt, government spending, and fiscal consolidation. The paper reports
+five main findings. First, coverage of fiscal policy in the German press is dominated by
+advocacy rather than explanation. Narratives prescribing what governments should do account
+for 85% of all narrative articles, while the two narratives that primarily assess the
+fiscal situation are never the most prevalent in any month. Second, I identify 104 narrative
+episodes with a median duration of two months. Although the onset of these episodes is
+not systematically associated with major fiscal events, the longest-lasting episodes typically
+follow such events. Third, fiscal narratives are generally complementary rather than
+competing. Every pair of narratives that can co-occur within an article appears together
+more frequently than would be expected by chance. In addition, the prevalence of all four
+narratives exhibits positive comovement over time, with narratives promoting fiscal policy
+actions typically preceding those describing the consequences of such policies. Fourth, each
+newspaper displays a distinct and persistent editorial stance on fiscal policy. The conservative
+broadsheet presents the broadest range of fiscal arguments, the left-leaning newspaper
+the narrowest, and the newspaper with by far the largest readership is the least representative
+of the overall press. Finally, ideological differences across newspapers vary with the
+political composition of the government. The distance between the conservative and leftleaning
+newspapers is approximately three and a half times larger under the only left-led
+government in the sample than under the three CDU/CSU-led governments. During the
+left-led government, the left-leaning newspaper becomes more supportive of government
+spending, while the conservative newspaper moves further away from that position.
+
+</details>
+
 ---
 
 **Which Macroeconomic Releases Move FOMC Prediction Markets? Evidence from Polymarket**<br>
