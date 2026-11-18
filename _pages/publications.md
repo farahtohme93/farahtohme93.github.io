@@ -38,7 +38,7 @@ We study how tariff-attention shocks affect market-based inflation compensation 
 
 ---
 
-**Fiscal Policy in the German Press: Twenty Years of Evidence∗**<br>
+**Fiscal Policy in the German Press: Twenty Years of Evidence**<br>
 with Sarah Arndt<br>
 <small>*Draft available upon request*</small>
 
